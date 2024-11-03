@@ -1,14 +1,41 @@
-# Мурга Олександр Ивановыч 
-## Мои контакты вот 
--Email: Sanay8myrga@gmail.com
-- Мой номер телефона +380987860957
-- Мой Instagram sanay__sw_
-## Мои небольшие скилы 
--HTML/SCC
--JS/GIt
-- Очень надесь что будет их больше)
-№№ Опыта работы в IT нету/но есть
-- 3 месяца обвальщиком мяса
-- сезонов 6 черешни в садах
-- и моя на данный момент основная работа Сварщик на придприятии уже полтора года опыта
-  
+# Myrga Oleksandr 
+## Contacts
+- Location:  Nicopol, Ukraine
+- Email: Sanay8myrga@gmail.com
+- Phone +380987860957
+- My Instagram sanay__sw_
+- [GitHub] (https://github.com/sanay110)
+
+## About Me
+- I have a given voice, I work well in a team, and I also want to improve my skills and move forward.
+
+## Skills
+- HTML/SCC
+- JS
+- Git 
+## Code Example 
+function calculator(a, b, operator) {
+    switch (operator) {
+        case '+':
+            return a + b;
+        case '-':
+            return a - b;
+        case '*':
+            return a * b;
+        case '/':
+            if (b === 0) {
+                return "Деление на ноль невозможно";
+            } else {
+                return a / b;
+            }
+        default:
+            return "Неизвестный оператор";
+    }
+}
+## Experience
+## Education
+- College: Nikopol Center for Vocational Education, specialty “gas-electric welder and welder on automatic and semi-automatic machines.”
+
+## English 
+- A1 I am learning English on my own
+
